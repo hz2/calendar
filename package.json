@@ -1,0 +1,32 @@
+{
+  "name": "@hzsq/calendar",
+  "version": "0.0.1",
+  "description": "calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/@hzsq"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hz2/calendar.git"
+  },
+  "keywords": [
+    "classless",
+    "css",
+    "minimal"
+  ],
+  "author": "hz2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hz2/calendar/issues"
+  },
+  "homepage": "https://github.com/hz2/calendar#readme",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
