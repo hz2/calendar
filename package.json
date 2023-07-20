@@ -1,6 +1,6 @@
 {
   "name": "@hzsq/calendar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "calendar",
   "main": "index.js",
   "scripts": {
